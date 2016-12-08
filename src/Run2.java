@@ -39,7 +39,6 @@ public class Run2 {
 				e.printStackTrace();
 			}
 			try {
-				System.out.println("Attendo 4 minuti");
 				Thread.sleep(4 * 60 * 1000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
