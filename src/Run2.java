@@ -17,7 +17,7 @@ import org.jsoup.select.Elements;
 public class Run2 {
 
 	public static void main(String[] args) {
-		String lastData = "";
+		String lastData = "31-01-2017";
 
 		while (true) {
 			try {
